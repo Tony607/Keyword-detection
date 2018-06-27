@@ -1,0 +1,18 @@
+# python related
+*.pyc
+
+# C/C++ related
+*.o
+*.d
+*.elf
+*.bin
+*.map
+
+# Temp files
+*.swp
+*.swo
+
+*.ipynb_checkpoints
+__pycache__
+.vscode
+logs/
